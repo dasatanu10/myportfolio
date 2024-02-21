@@ -1,4 +1,5 @@
-remote_theme: jeffreytse/jekyll-theme-yat #Jekyll-Theme-Yat #benc-uk/theme-msdark
+remote_theme: TeaGuns/odin
+#jeffreytse/jekyll-theme-yat #Jekyll-Theme-Yat #benc-uk/theme-msdark
 title: Lear Data Modeling
 buttons:
   - text: Download All
@@ -12,3 +13,10 @@ navigation:
   - {title: Mail, icon: envelope, url: "mailto:atanu10.yt@gmail.com"}
   - {title: Website, icon: web, url: "https://www.atanuconsulting.in/"}
   - {title: Feed, icon: rss, url: "/feed.xml"}
+
+# Navivation
+nav_item_one: Github
+nav_item_one_link: https://github.com/TeaGuns/odin
+
+nav_item_two: Twitter
+nav_item_two_link: https://twitter.com/TheTeaGuns
