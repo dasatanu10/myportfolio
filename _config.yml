@@ -3,3 +3,8 @@ title: Lear Data Modeling
 buttons:
   - text: Download All
     href: https://github.com/benc-uk/icon-collection/archive/master.zip
+
+navigation:
+  - {title: Mail, icon: envelope, url: "mailto:atanu10.yt@gmail.com"}
+  - {title: Website, icon: web, url: "https://www.atanuconsulting.in/"}
+  - {title: Feed, icon: rss, url: "/feed.xml"}
