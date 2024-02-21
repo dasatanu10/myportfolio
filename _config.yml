@@ -1,4 +1,4 @@
-remote_theme: benc-uk/theme-msdark
+remote_theme: Jekyll-Theme-Yat #benc-uk/theme-msdark
 title: Lear Data Modeling
 buttons:
   - text: Download All
